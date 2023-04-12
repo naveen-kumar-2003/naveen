@@ -6,4 +6,7 @@ Team member 3-https://trailblazer.me/id/rkumar4924
 
 GitHub URL
 
-Team leader https://github.com/naveen-kumar-2003/naveen/edit/main/README.md
+Team leader https://github.com/naveen-kumar-2003
+Team member 1- https://github.com/ragul232
+Team member 2-https://github.com/Ragul-20-20
+Team member 3-https://github.com/rakesh20rpt21
